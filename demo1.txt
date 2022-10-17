@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://github.com/tedtninety/files/blob/main/image-map-pro.min.css">
+</head>
+<body>
+    <div id="image-map-pro-container"></div>
+
+    <script src="https://github.com/tedtninety/files/blob/main/jquery.min.js"></script>
+    <script src="https://github.com/tedtninety/files/blob/main/image-map-pro.min.js"></script>
+    <script type="text/javascript">
+        ;(function ($, window, document, undefined) {
+            $(document).ready(function() {
+              $('#image-map-pro-container').imageMapPro({"id":4670,"editor":{"previewMode":1,"selected_shape":"rect-5194","tool":"select","shapeCounter":{"rects":1}},"general":{"name":"Untitled"},"spots":[{"id":"rect-5194","title":"Rect 0","type":"rect","x":10.5,"y":10.556,"width":31,"height":30.444,"x_image_background":10.5,"y_image_background":10.556,"width_image_background":31,"height_image_background":30.444,"actions":{"click":"follow-link","link":"http://www.google.com"},"default_style":{"border_radius":10},"mouseover_style":{"border_radius":10,"background_color":"#FFCC33","background_opacity":0.6564106737446581},"tooltip_content":{"squares_settings":{"containers":[{"id":"sq-container-403761","settings":{"elements":[{"settings":{"name":"Heading","iconClass":"fa fa-header"},"options":{"heading":{"text":"Rect 0"}}}]}}]}}}]});
+              });
+        })(jQuery, window, document);
+    </script>
+</body>
+</html>
